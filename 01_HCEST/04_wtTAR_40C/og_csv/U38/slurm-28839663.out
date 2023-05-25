@@ -1,0 +1,28 @@
+rm: cannot remove 'test_kex_3/': No such file or directory
+/hpc/home/ag437/anaconda/envs/python2/lib/python2.7/site-packages/matplotlib/font_manager.py:1333: UserWarning: findfont: Font family [u'Arial'] not found. Falling back to DejaVu Sans
+  (prop.get_family(), self.defaultFamily[fontext]))
+inhomogeneity sampling size is 40
+
+Number of floating variables =  5
+Free variables ['pB', 'dwB', 'kexAB', 'R1', 'R2']
+Fixed variables ['pC', 'dwC', 'kexAC', 'kexBC']
+Intensities used for fitting
+inhomogeneity
+slp 10 hz, inhomo 0.19
+slp 50 hz, inhomo 0.05
+slp 200 hz, inhomo 0.03
+slp 500 hz, inhomo 0.02
+slp 1000 hz, inhomo 0.015
+slp 4000 hz, inhomo 0.011
+CHI2 3088.047864588051 rchi2 6.354007951827266 9 5
+Optimal parameters are 
+pB 0.004 +/- 0.001
+pC -0.000 +/- 0.0
+dwB -2.636 +/- 0.372
+dwC 0.000 +/- 0.0
+kexAB 13250.149 +/- 3065.330
+kexAC -0.000 +/- 0.0
+kexBC -0.000 +/- 0.0
+R1 31.115 +/- 0.066
+R2 32.748 +/- 2.276
+END TIME =  786.251966953

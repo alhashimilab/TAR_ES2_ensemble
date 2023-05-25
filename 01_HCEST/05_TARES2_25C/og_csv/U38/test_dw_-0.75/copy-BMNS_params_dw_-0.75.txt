@@ -1,0 +1,23 @@
+
++
+Name result_1.csv
+lf 800.349962
+AlignMag AUTO
+resn 1.0 
+eqbn Y
+fitvar I
+ls N
+err_mode STD
+mc_iter 10
+inhomo 0.268 0.075 0.063 0.048 0.048
+number_inhomo_slps 40
+J 0.0
+pB 0.01 0.0001 0.4
+pC! 0.0 1e-6 0.5
+dwB! -0.75 -3.0 3.0
+dwC! 0.0 -80 80
+kexAB 500.0 1.0 60000.0
+kexAC! 0.0 1.0 500000.0
+kexBC! 0.0 1.0 500000.0
+R1 5.0 1 30.
+R2 20.0 1 50.

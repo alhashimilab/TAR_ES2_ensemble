@@ -1,0 +1,28 @@
+rm: cannot remove 'test/': No such file or directory
+/hpc/home/ag437/anaconda/envs/python2/lib/python2.7/site-packages/matplotlib/font_manager.py:1333: UserWarning: findfont: Font family [u'Arial'] not found. Falling back to DejaVu Sans
+  (prop.get_family(), self.defaultFamily[fontext]))
+inhomogeneity sampling size is 40
+
+Number of floating variables =  2
+Free variables ['R1', 'R2']
+Fixed variables ['pB', 'pC', 'dwB', 'dwC', 'kexAB', 'kexAC', 'kexBC']
+Intensities used for fitting
+inhomogeneity
+slp 10 hz, inhomo 0.19
+slp 50 hz, inhomo 0.05
+slp 200 hz, inhomo 0.03
+slp 500 hz, inhomo 0.015
+slp 1000 hz, inhomo 0.011
+slp 4000 hz, inhomo 0.01
+CHI2 87098.04514176003 rchi2 168.46817242119928 9 2
+Optimal parameters are 
+pB -0.000 +/- 0.0
+pC 0.000 +/- 0.0
+dwB -0.000 +/- 0.0
+dwC 0.000 +/- 0.0
+kexAB -0.000 +/- 0.0
+kexAC -0.000 +/- 0.0
+kexBC -0.000 +/- 0.0
+R1 6.803 +/- 0.019
+R2 17.114 +/- 0.225
+END TIME =  278.368022919

@@ -1,0 +1,9 @@
+Fit #1
+U38N3_wtTAR_35C Pars,Fit Value,Error
+pB (%),0.373,0.152
+dwB (ppm),-5.65,1.16
+kexAB (s^-1),4958,487
+R1 (s^-1),1.93,0.02
+R2 (s^-1),4.63,0.44
+R2b (s^-1),0.00,116.86
+Red. Chi-sq,1.34

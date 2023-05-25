@@ -1,0 +1,51 @@
+rm: cannot remove 'test_glob/': No such file or directory
+/hpc/home/ag437/anaconda/envs/python2/lib/python2.7/site-packages/matplotlib/font_manager.py:1333: UserWarning: findfont: Font family [u'Arial'] not found. Falling back to DejaVu Sans
+  (prop.get_family(), self.defaultFamily[fontext]))
+inhomogeneity sampling size is 40
+
+Number of floating variables =  5
+Free variables ['pB', 'dwB', 'kexAB', 'R1', 'R2']
+Fixed variables ['pC', 'dwC', 'kexAC', 'kexBC']
+Intensities used for fitting
+inhomogeneity
+slp 10 hz, inhomo 0.268
+slp 50 hz, inhomo 0.075
+slp 100 hz, inhomo 0.063
+slp 500 hz, inhomo 0.048
+slp 1000 hz, inhomo 0.048
+
+inhomogeneity sampling size is 40
+
+Number of floating variables =  5
+Free variables ['pB', 'dwB', 'kexAB', 'R1', 'R2']
+Fixed variables ['pC', 'dwC', 'kexAC', 'kexBC']
+Intensities used for fitting
+inhomogeneity
+slp 10 hz, inhomo 0.268
+slp 50 hz, inhomo 0.075
+slp 100 hz, inhomo 0.063
+slp 500 hz, inhomo 0.048
+slp 1000 hz, inhomo 0.048
+Shared parameters  ['pB', 'kexAB']
+CHI2 15921.703021042766 rchi2 19.416711001271665 8 2
+pB 0.14676 +- 0.04506
+pC 0.00000 +- 0.00000
+dwB 2.93280 +- 0.00485
+dwC -0.00000 +- 0.00000
+kexAB 156.78702 +- 9.27180
+kexAC -0.00000 +- 0.00000
+kexBC 0.00000 +- 0.00000
+R1 11.76442 +- 0.00933
+R2 34.01840 +- 0.65645
+
+pB 0.14676 +- 0.04506
+pC -0.00000 +- 0.00000
+dwB -0.28828 +- 0.00752
+dwC 0.00000 +- 0.00000
+kexAB 156.78702 +- 9.27180
+kexAC 0.00000 +- 0.00000
+kexBC -0.00000 +- 0.00000
+R1 10.99451 +- 0.02356
+R2 35.89871 +- 0.24294
+
+END TIME =  2154.91139007

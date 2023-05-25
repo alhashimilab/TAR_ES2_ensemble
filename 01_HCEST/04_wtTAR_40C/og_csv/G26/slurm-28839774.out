@@ -1,0 +1,27 @@
+/hpc/home/ag437/anaconda/envs/python2/lib/python2.7/site-packages/matplotlib/font_manager.py:1333: UserWarning: findfont: Font family [u'Arial'] not found. Falling back to DejaVu Sans
+  (prop.get_family(), self.defaultFamily[fontext]))
+inhomogeneity sampling size is 40
+
+Number of floating variables =  5
+Free variables ['pB', 'dwB', 'kexAB', 'R1', 'R2']
+Fixed variables ['pC', 'dwC', 'kexAC', 'kexBC']
+Intensities used for fitting
+inhomogeneity
+slp 10 hz, inhomo 0.19
+slp 50 hz, inhomo 0.05
+slp 200 hz, inhomo 0.03
+slp 500 hz, inhomo 0.015
+slp 1000 hz, inhomo 0.011
+slp 4000 hz, inhomo 0.01
+CHI2 1256.1610131339837 rchi2 2.5224116729598065 9 5
+Optimal parameters are 
+pB 0.017 +/- 0.031
+pC 0.000 +/- 0.0
+dwB 3.500 +/- 0.968
+dwC -0.000 +/- 0.0
+kexAB 78542.447 +/- 55487.164
+kexAC 0.000 +/- 0.0
+kexBC 0.000 +/- 0.0
+R1 24.967 +/- 0.037
+R2 1.000 +/- 41.932
+END TIME =  1853.71257401
